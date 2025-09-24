@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Data Entry & Office Assistant",
+    "company": "Govt. Rural Development Agency",
+    "location": "Home State",
+    "education_level": "High School",
+    "skills": ["Data Entry", "Computer Skills", "Communication"],
+    "sector": "Government",
+    "description": "Assist with data entry and basic office tasks in a local government office. No prior experience needed."
+  },
+  {
+    "id": 2,
+    "title": "Software Development Intern",
+    "company": "Tech Innovators Pvt. Ltd.",
+    "location": "Anywhere in India",
+    "education_level": "Undergraduate",
+    "skills": ["Coding", "Python", "Problem Solving"],
+    "sector": "IT",
+    "description": "Work on real-world projects with a team of experienced developers. Ideal for engineering students."
+  },
+  {
+    "id": 3,
+    "title": "Community Outreach Intern",
+    "company": "Helping Hands Foundation",
+    "location": "Delhi",
+    "education_level": "Undergraduate",
+    "skills": ["Communication", "Social Media", "Community Work"],
+    "sector": "Non-profit",
+    "description": "Engage with communities and help coordinate social projects in urban slums. A great role for arts and social science students."
+  },
+  {
+    "id": 4,
+    "title": "Content Writing Intern",
+    "company": "Digital Marketing Solutions",
+    "location": "Anywhere in India",
+    "education_level": "Undergraduate",
+    "skills": ["Communication", "Writing", "Social Media"],
+    "sector": "IT",
+    "description": "Create engaging content for social media and blogs. A perfect fit for a student with strong language skills."
+  },
+  {
+    "id": 5,
+    "title": "Financial Planning Intern",
+    "company": "MoneyWise Financial Services",
+    "location": "Mumbai",
+    "education_level": "Postgraduate",
+    "skills": ["Financial Analysis", "Data Entry", "Communication"],
+    "sector": "Finance",
+    "description": "Assist financial planners with research and data analysis. Great for commerce and finance students."
+  }
+]
